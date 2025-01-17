@@ -48,15 +48,3 @@ async function run() {
 
 run();
 
-
-// const generate = async() =>{
-//     try{
-//         const result = await model.generateContent(prompt);
-//         console.log(result.response.text());
-//     }catch(err){
-//         console.log(err);
-//     }
-   
-// }
-
-// generate();
